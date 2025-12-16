@@ -1,0 +1,55 @@
+{
+  "levelNumber": 1,
+  "rows": 3,
+  "columns": 5,
+  "blocks": [
+    {
+      "type": {
+        "Value": "water",
+        "IsNone": false
+      },
+      "row": 0,
+      "column": 0
+    },
+    {
+      "type": {
+        "Value": "water",
+        "IsNone": false
+      },
+      "row": 0,
+      "column": 2
+    },
+    {
+      "type": {
+        "Value": "fire",
+        "IsNone": false
+      },
+      "row": 0,
+      "column": 3
+    },
+    {
+      "type": {
+        "Value": "fire",
+        "IsNone": false
+      },
+      "row": 0,
+      "column": 4
+    },
+    {
+      "type": {
+        "Value": "water",
+        "IsNone": false
+      },
+      "row": 1,
+      "column": 0
+    },
+    {
+      "type": {
+        "Value": "fire",
+        "IsNone": false
+      },
+      "row": 1,
+      "column": 2
+    }
+  ]
+}

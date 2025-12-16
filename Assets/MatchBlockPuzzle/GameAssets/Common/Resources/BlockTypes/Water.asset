@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 536f146efbdb23a4d916e7f6a3f1d480, type: 3}
+  m_Name: Water
+  m_EditorClassIdentifier: MatchPuzzle.Runtime::MatchPuzzle.Infrastructure.Data.BlockTypeData
+  _id: water
+  _displayName: Water
+  _shortLabel: W
+  _editorColor: {r: 0, g: 0.9470029, b: 1, a: 1}
+  _idleSprite: {fileID: 21300000, guid: 6d7d800d3c354c44381bcc6c431589e4, type: 3}
+  _animatorController: {fileID: 9100000, guid: b014d10f2ca0a6a42ac530d93b50c465, type: 2}
+  _baseSortingOrder: 0

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 451c904fc73c8ea42b44c4add6bfcf52, type: 3}
+  m_Name: PersistenceSettings
+  m_EditorClassIdentifier: MatchPuzzle.Runtime::MatchPuzzle.Infrastructure.Data.PersistenceSettings
+  DataFormat: 0
+  Parser: 0
+  BytesConverter: 0
+  CustomBytesConverter: {fileID: 0}

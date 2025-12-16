@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64d27633d6a269147a05e867c2f75988, type: 3}
+  m_Name: AssetKeys
+  m_EditorClassIdentifier: MatchPuzzle.Runtime::MatchPuzzle.Infrastructure.Data.AssetKeys
+  GameSettingsKey: Settings/GameSettings
+  CameraSettingsKey: Settings/CameraSettings
+  LoggingSettingsKey: Settings/LoggingSettings
+  PersistenceSettingsKey: Settings/PersistenceSettings
+  BlockAnimationSettingsKey: Settings/BlockAnimationSettings
+  PoolingSettingsKey: Settings/PoolingSettings
+  GridSettingsKey: Settings/GridSettings
+  InputSettingsKey: Settings/InputSettings
+  BlockViewPrefabKey: Prefabs/BlockView
+  GridViewPrefabKey: Prefabs/GridView
+  MatchPuzzleScreenPrefabKey: Prefabs/MatchPuzzleRoot
+  MatchPuzzleUIViewPrefabKey: Prefabs/MatchPuzzleUIView

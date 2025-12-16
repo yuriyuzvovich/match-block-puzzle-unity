@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 536f146efbdb23a4d916e7f6a3f1d480, type: 3}
+  m_Name: Fire
+  m_EditorClassIdentifier: MatchPuzzle.Runtime::MatchPuzzle.Infrastructure.Data.BlockTypeData
+  _id: fire
+  _displayName: Fire
+  _shortLabel: F
+  _editorColor: {r: 1, g: 0.315151, b: 0, a: 1}
+  _idleSprite: {fileID: 21300000, guid: be888d5f3bff6f545858d344dba52df2, type: 3}
+  _animatorController: {fileID: 9100000, guid: e728aa0074eb4d64ba6c7b7c377f2499, type: 2}
+  _baseSortingOrder: 0
