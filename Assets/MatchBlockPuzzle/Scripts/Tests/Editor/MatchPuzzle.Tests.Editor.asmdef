@@ -5,7 +5,8 @@
         "MatchPuzzle.Runtime",
         "MatchPuzzle.Editor",
         "UnityEngine.TestRunner",
-        "UnityEditor.TestRunner"
+        "UnityEditor.TestRunner",
+        "UniTask"
     ],
     "includePlatforms": [
         "Editor"
